@@ -92,21 +92,21 @@ endmodule
 
 ### UP COUNTER:
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex71.png?raw=true)
 
 ### DOWN COUNTER:
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex73.png?raw=true)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ### UP COUNTER:
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex72.png?raw=true)
 
 ### DOWN COUNTER:
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex74.png?raw=true)
 
 ### TRUTH TABLE 
 
