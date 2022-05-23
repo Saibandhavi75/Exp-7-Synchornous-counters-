@@ -116,6 +116,6 @@ endmodule
 
 ### DOWN COUNTER:
 
-![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex76.png?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex77.png?raw=true)
 
 ### RESULTS 
