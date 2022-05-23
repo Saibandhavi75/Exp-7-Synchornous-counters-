@@ -112,10 +112,10 @@ endmodule
 
 ### UP COUNTER:
 
-![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex75.png?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex78.png?raw=true)
 
 ### DOWN COUNTER:
 
-![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex77.png?raw=true)
+![output](https://github.com/Saibandhavi75/Exp-7-Synchornous-counters-/blob/main/ex79.png?raw=true)
 
 ### RESULTS 
