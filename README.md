@@ -70,31 +70,30 @@ RegisterNumber:  212221240006
 
 ### UP COUNTER:
 
-![output)[?raw=true)
+![output](?raw=true)
 
 ### DOWN COUNTER:
 
-![output)[?raw=true)
+![output](?raw=true)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ### UP COUNTER:
 
-![output)[?raw=true)
+![output](?raw=true)
 
 ### DOWN COUNTER:
 
-![output)[?raw=true)
+![output](?raw=true)
 
 ### TRUTH TABLE 
 
 ### UP COUNTER:
 
-![output)[?raw=true)
+![output](?raw=true)
 
 ### DOWN COUNTER:
 
-![output)[?raw=true)
-
+![output](?raw=true)
 
 ### RESULTS 
